@@ -4,6 +4,10 @@
 
 **VEXSQLi** es una herramienta avanzada para la generación de payloads de inyección SQL (SQLi) utilizando procesamiento de lenguaje natural (NLP). Esta herramienta permite crear variantes ofuscadas de payloads SQLi a partir de un conjunto base de payloads, aplicando técnicas de ofuscación para evadir filtros y detección.
 
+## Demostracion:
+
+https://github.com/user-attachments/assets/51af17ad-aa90-4aab-b329-ff3db0f615a6
+
 ## Características
 
 - Generación de payloads SQLi con variaciones de nombres y verbos.
