@@ -7,6 +7,7 @@
 ## Características
 
 - Generación de payloads SQLi con variaciones de nombres y verbos.
+- En busqueda de hacer bypass a los waf he logrado dar en el clavo teniendo exito en caza de recompensas con caracteres cuneiformes.
 - Ofuscación de payloads usando técnicas como codificación en Base64, Unicode y caracteres homoglifos.
 - Inserción de comentarios SQL y concatenación de cadenas para mayor complejidad.
 - Configuración de parámetros de entrada y salida a través de la línea de comandos.
