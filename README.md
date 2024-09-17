@@ -35,7 +35,7 @@ Donde:
 
 ## Ejemplo
 
-Si tienes un archivo payloads.txt con los payloads base y deseas guardar los resultados en payloads_generados.txt, ejecuta:
+Si tienes un archivo payloads.txt con los payloads base y deseas guardar los resultados en payloads_generados.txt (para la lista de cargas utiles que debemos pasarle podemos usar la de nuestra preferencia, he decidido dejar una lista de cargas utiles con las he generado cargas utiles nuevas), ejecuta:
 
 ```bash
 python vexsqli.py --payloads payloads.txt --out payloads_generados.txt
